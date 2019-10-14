@@ -1,0 +1,89 @@
+body     {
+    background: aquamarine;
+}
+h2{
+    color: lime; font-size: 25px;
+}
+*{
+    margin:0;
+    padding: 15px;
+    color: aquamarine;
+}
+a{
+    color: white;
+    font-size: 25px;
+    text-decoration: none;
+    margin: 7px 10px 70px 0px;
+    background-color: blue;
+    color: WHITE;
+    box-shadow: 0px 5px 0px #1D64A6;
+
+}
+div{
+    font-size: .5cm;
+    background: rgb(255,128,207) ;
+    color: black; width:600px;
+
+
+}
+h1{
+    color: black;
+    font-size: 37px;
+    float: bottom;
+    font-family: "Arial";
+    text-shadow:5px 5px 5px #000;
+}
+h3{
+    font-size: 17px; color:black;
+    width: 350px;
+    height: 50px;
+    background: black;
+    margin: .8px 1cm;
+    padding: 30px;
+    border: 10px solid; color:white;
+   /*  font-weight: bold; /*
+    /* display: inline-block; no se para que se usa */
+}
+h4{
+    color: black;
+    font-size: 25px;
+    font-family: Arial;
+}
+.caja{
+    background: aquamarine;
+    position: fixed;
+    top:0px;
+    bottom:400px;
+    right: 0px;
+    left: 1000px;
+}
+img{
+    width: 200px;
+    height: auto;
+    border-radius: 60px;
+}
+.textoabajo{
+    color: black;
+    font-family: Arial;
+}
+.link1{
+    color: black;
+    font-size: 20px;
+    background: aquamarine;
+}
+.link2{
+    font-size: 30px;
+
+}
+.quienes{
+    color: white;
+    border-bottom-color: #1D64A6;
+    font-family: arial;
+    font-size: 30px;
+}
+.expe{
+    background-color: black;
+    color: white;
+}
+    /* Comentarios en CSS */
+
